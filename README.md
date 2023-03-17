@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning more about Vue.js.
 - 👯 I’m looking to collaborate on a cool startup project.
 - 💬 Ask me about everything you want. 
-- ⚡ I am just as fascinated by old technology as I am by revolutionary modern technology.
+- ⚡ I'm just as fascinated by old technology as I'm by revolutionary modern technology.
